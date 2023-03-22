@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bartaslu
 - 👀 I’m interested in IT, Programming, IoT and Robotics
-- 🌱 I’m currently learning Python and Docker, Unity with C#, and I already know  HTML, CSS , JavaScript, basics of C, C++, Java.
-- 💞️ I’m looking to collaborate on different project ideas as I'm pretty newbie at the moment!
+- 🌱 I’m currently learning Docker, Unity with C#, and I already know  HTML, CSS , JavaScript, basics of C, C++, Java.
+- 💞️ I’m looking to collaborate on different project ideas
 - 📫 How to reach me: lukauskasbartas@gmail.com or on Discord DeLu #0105
 
 
